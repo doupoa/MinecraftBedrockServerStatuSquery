@@ -1,0 +1,2 @@
+# MinecraftBedrockServerStatuSquery
+利用Python快捷的对基岩版服务器进行状态查询
